@@ -1,0 +1,30 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.rarepebble.dietdiarydb.apk",
+    "package_name": "com.rarepebble.dietdiarydb",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [
+        {
+            "activity_name": "com.rarepebble.dietdiarydb.MainActivity",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        }
+    ],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736277083.4431734,
+    "end_time": 1736277083.650409,
+    "exception": false
+}

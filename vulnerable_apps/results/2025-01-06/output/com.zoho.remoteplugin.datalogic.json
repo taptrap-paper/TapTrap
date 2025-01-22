@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.zoho.remoteplugin.datalogic.apk",
+    "package_name": "com.zoho.remoteplugin.datalogic",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736330038.201126,
+    "end_time": 1736330053.8223696,
+    "exception": false
+}

@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.handcent.sms.skin.strawberrydiary_merged.apk",
+    "package_name": "com.handcent.sms.skin.strawberrydiary",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736556469.7432332,
+    "end_time": 1736556469.8778646,
+    "exception": false
+}

@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.splashtop.streamer.platform.honeywell.apk",
+    "package_name": "com.splashtop.streamer.platform.honeywell",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736587084.470088,
+    "end_time": 1736587085.9503007,
+    "exception": false
+}

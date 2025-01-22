@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.zoho.remotepulgin.lenovo_t3.apk",
+    "package_name": "com.zoho.remotepulgin.lenovo_t3",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736584919.119268,
+    "end_time": 1736584929.496868,
+    "exception": false
+}

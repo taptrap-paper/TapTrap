@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.anysoftkeyboard.languagepack.mirfatif.english.apk",
+    "package_name": "com.anysoftkeyboard.languagepack.mirfatif.english",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736423319.7115912,
+    "end_time": 1736423319.9066947,
+    "exception": false
+}

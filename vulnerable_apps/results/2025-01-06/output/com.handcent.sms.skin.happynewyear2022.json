@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.handcent.sms.skin.happynewyear2022_merged.apk",
+    "package_name": "com.handcent.sms.skin.happynewyear2022",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736293114.9230359,
+    "end_time": 1736293115.1882772,
+    "exception": false
+}

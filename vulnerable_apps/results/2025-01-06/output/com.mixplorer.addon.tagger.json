@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.mixplorer.addon.tagger.apk",
+    "package_name": "com.mixplorer.addon.tagger",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736399540.5295076,
+    "end_time": 1736399545.0884044,
+    "exception": false
+}

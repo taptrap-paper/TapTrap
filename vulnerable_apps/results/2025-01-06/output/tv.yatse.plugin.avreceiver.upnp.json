@@ -1,0 +1,30 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/tv.yatse.plugin.avreceiver.upnp.apk",
+    "package_name": "tv.yatse.plugin.avreceiver.upnp",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [
+        {
+            "activity_name": "tv.yatse.plugin.avreceiver.upnp.SettingsActivity",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        }
+    ],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736526604.977964,
+    "end_time": 1736526622.3873332,
+    "exception": false
+}

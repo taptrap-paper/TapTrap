@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.handcent.sms.skin.androidstyle.apk",
+    "package_name": "com.handcent.sms.skin.androidstyle",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736437352.9325743,
+    "end_time": 1736437353.160507,
+    "exception": false
+}

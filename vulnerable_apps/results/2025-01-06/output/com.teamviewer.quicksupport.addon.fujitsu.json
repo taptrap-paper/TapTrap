@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.teamviewer.quicksupport.addon.fujitsu.apk",
+    "package_name": "com.teamviewer.quicksupport.addon.fujitsu",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736589708.965206,
+    "end_time": 1736589712.2021112,
+    "exception": false
+}

@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.handcent.sms.skin.bamboo.apk",
+    "package_name": "com.handcent.sms.skin.bamboo",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736434595.1172547,
+    "end_time": 1736434595.3507342,
+    "exception": false
+}

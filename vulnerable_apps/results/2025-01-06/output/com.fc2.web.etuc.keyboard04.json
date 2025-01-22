@@ -1,0 +1,15 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.fc2.web.etuc.keyboard04_merged.apk",
+    "package_name": "com.fc2.web.etuc.keyboard04",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [
+        "Lcom/google/android/material/transition/platform/MaterialContainerTransformSharedElementCallback$2; onTransitionEnd (Landroid/transition/Transition;)V"
+    ],
+    "start_time": 1736561573.3745887,
+    "end_time": 1736561603.3272936,
+    "exception": false
+}

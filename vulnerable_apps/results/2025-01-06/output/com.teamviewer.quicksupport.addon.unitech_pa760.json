@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.teamviewer.quicksupport.addon.unitech_pa760.apk",
+    "package_name": "com.teamviewer.quicksupport.addon.unitech_pa760",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736344353.946966,
+    "end_time": 1736344360.767683,
+    "exception": false
+}

@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.teamviewer.quicksupport.addon.htc.apk",
+    "package_name": "com.teamviewer.quicksupport.addon.htc",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736183682.7744713,
+    "end_time": 1736183687.9674437,
+    "exception": false
+}

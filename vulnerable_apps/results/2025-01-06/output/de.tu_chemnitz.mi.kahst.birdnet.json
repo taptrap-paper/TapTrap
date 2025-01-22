@@ -1,0 +1,242 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/de.tu_chemnitz.mi.kahst.birdnet.apk",
+    "package_name": "de.tu_chemnitz.mi.kahst.birdnet",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [
+        {
+            "activity_name": "de.tu_chemnitz.mi.kahst.birdnet.Activity_Main",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        },
+        {
+            "activity_name": "de.tu_chemnitz.mi.kahst.birdnet.Activity_WebView",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": [
+                "Landroid/app/Activity; overridePendingTransition (I I)V"
+            ]
+        },
+        {
+            "activity_name": "de.tu_chemnitz.mi.kahst.birdnet.Activity_SplashScreen",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [
+                "<intent-filter xmlns:ns0=\"http://schemas.android.com/apk/res/android\"><action ns0:name=\"android.intent.action.MAIN\" /><category ns0:name=\"android.intent.category.LAUNCHER\" /></intent-filter>"
+            ],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        },
+        {
+            "activity_name": "de.tu_chemnitz.mi.kahst.birdnet.Activity_Settings",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": [
+                "Landroid/app/Activity; overridePendingTransition (I I)V"
+            ]
+        },
+        {
+            "activity_name": "de.tu_chemnitz.mi.kahst.birdnet.Activity_Info",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": [
+                "Landroid/app/Activity; overridePendingTransition (I I)V"
+            ]
+        },
+        {
+            "activity_name": "de.tu_chemnitz.mi.kahst.birdnet.Activity_About",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": [
+                "Landroid/app/Activity; overridePendingTransition (I I)V"
+            ]
+        },
+        {
+            "activity_name": "de.tu_chemnitz.mi.kahst.birdnet.Activity_Explore",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": [
+                "Landroid/app/Activity; overridePendingTransition (I I)V"
+            ]
+        },
+        {
+            "activity_name": "de.tu_chemnitz.mi.kahst.birdnet.Activity_BirdWeather",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": [
+                "Landroid/app/Activity; overridePendingTransition (I I)V"
+            ]
+        },
+        {
+            "activity_name": "de.tu_chemnitz.mi.kahst.birdnet.Activity_Recordings",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": [
+                "Landroid/app/Activity; overridePendingTransition (I I)V"
+            ]
+        },
+        {
+            "activity_name": "de.tu_chemnitz.mi.kahst.birdnet.Activity_Import",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": false,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        },
+        {
+            "activity_name": "de.tu_chemnitz.mi.kahst.birdnet.Activity_SpeciesRecordings",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": false,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": [
+                "Landroid/app/Activity; overridePendingTransition (I I)V"
+            ]
+        },
+        {
+            "activity_name": "de.tu_chemnitz.mi.kahst.birdnet.Activity_Details",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": [
+                "Landroid/app/Activity; overridePendingTransition (I I)V"
+            ]
+        }
+    ],
+    "not_found_activities": [],
+    "override_animation_calls": [
+        "LB/i; h (Lj/k; Landroid/view/MenuItem;)Z",
+        "LX0/b; onBackPressed ()V",
+        "Lde/tu_chemnitz/mi/kahst/birdnet/Activity_Info; onBackPressed ()V",
+        "LX0/u0; onClick (Landroid/view/View;)V",
+        "Lde/tu_chemnitz/mi/kahst/birdnet/Activity_WebView; onBackPressed ()V",
+        "LO/d; a (Ljava/lang/Object;)V",
+        "LB/i; h (Lj/k; Landroid/view/MenuItem;)Z",
+        "Lde/tu_chemnitz/mi/kahst/birdnet/Activity_Main; J ()V",
+        "LB/i; h (Lj/k; Landroid/view/MenuItem;)Z",
+        "LX0/s0; onClick (Landroid/view/View;)V",
+        "LB/i; h (Lj/k; Landroid/view/MenuItem;)Z",
+        "LB/i; h (Lj/k; Landroid/view/MenuItem;)Z",
+        "LX0/v0; onClick (Landroid/view/View;)V",
+        "LB/i; h (Lj/k; Landroid/view/MenuItem;)Z",
+        "LB/i; h (Lj/k; Landroid/view/MenuItem;)Z"
+    ],
+    "start_time": 1736319428.07651,
+    "end_time": 1736319438.2137802,
+    "exception": false
+}

@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.tbig.playerpro.skins.cloudyred_merged.apk",
+    "package_name": "com.tbig.playerpro.skins.cloudyred",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736509151.9004838,
+    "end_time": 1736509179.615519,
+    "exception": false
+}

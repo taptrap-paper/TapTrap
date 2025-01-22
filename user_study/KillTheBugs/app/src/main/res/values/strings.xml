@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KillTheBugs</string>
+    <string name="webapp">https://playground.snroth.de</string>
+    <string name="pivotY_Pixel6a">57.75%</string>
+    <string name="pivotY_Edge20">56%</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.draco.pdnsqs_merged.apk",
+    "package_name": "com.draco.pdnsqs",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736236845.8116784,
+    "end_time": 1736236847.7203765,
+    "exception": false
+}

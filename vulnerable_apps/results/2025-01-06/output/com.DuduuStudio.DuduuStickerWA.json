@@ -1,0 +1,101 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.DuduuStudio.DuduuStickerWA_merged.apk",
+    "package_name": "com.DuduuStudio.DuduuStickerWA",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [
+        {
+            "activity_name": "com.DuduuStudio.DuduuStickerWA.SplashActivity",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [
+                "<intent-filter xmlns:ns0=\"http://schemas.android.com/apk/res/android\"><action ns0:name=\"android.intent.action.MAIN\" /><category ns0:name=\"android.intent.category.LAUNCHER\" /></intent-filter>"
+            ],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        },
+        {
+            "activity_name": "com.DuduuStudio.DuduuStickerWA.EntryActivity",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": [
+                "Landroid/app/Activity; overridePendingTransition (I I)V"
+            ]
+        },
+        {
+            "activity_name": "com.DuduuStudio.DuduuStickerWA.StickerPackListActivity",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        },
+        {
+            "activity_name": "com.DuduuStudio.DuduuStickerWA.StickerPackDetailsActivity",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        },
+        {
+            "activity_name": "com.DuduuStudio.DuduuStickerWA.StickerPackInfoActivity",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        }
+    ],
+    "not_found_activities": [],
+    "override_animation_calls": [
+        "Lcom/DuduuStudio/DuduuStickerWA/EntryActivity$a; onPostExecute (Ljava/lang/Object;)V",
+        "Lcom/DuduuStudio/DuduuStickerWA/EntryActivity; onCreate (Landroid/os/Bundle;)V"
+    ],
+    "start_time": 1736384101.1095543,
+    "end_time": 1736384111.9504273,
+    "exception": false
+}

@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.teamviewer.quicksupport.addon.lenovo_tb_8505f.apk",
+    "package_name": "com.teamviewer.quicksupport.addon.lenovo_tb_8505f",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736318809.9099724,
+    "end_time": 1736318817.0010633,
+    "exception": false
+}

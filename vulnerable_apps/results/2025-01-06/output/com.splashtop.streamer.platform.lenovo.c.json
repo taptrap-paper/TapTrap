@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.splashtop.streamer.platform.lenovo.c.apk",
+    "package_name": "com.splashtop.streamer.platform.lenovo.c",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736311402.0988734,
+    "end_time": 1736311404.541711,
+    "exception": false
+}

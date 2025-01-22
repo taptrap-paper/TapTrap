@@ -1,0 +1,69 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.notepad.notably_merged.apk",
+    "package_name": "com.notepad.notably",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [
+        {
+            "activity_name": "com.notepad.notably.ui.addnote.AddNoteActivity",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        },
+        {
+            "activity_name": "com.notepad.notably.ui.main.MainActivity",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "singleTask",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [
+                "<intent-filter xmlns:ns0=\"http://schemas.android.com/apk/res/android\"><action ns0:name=\"android.intent.action.MAIN\" /><category ns0:name=\"android.intent.category.LAUNCHER\" /></intent-filter>",
+                "<intent-filter xmlns:ns0=\"http://schemas.android.com/apk/res/android\"><action ns0:name=\"android.intent.action.SEND\" /><category ns0:name=\"android.intent.category.DEFAULT\" /><data ns0:mimeType=\"text/plain\" /><data ns0:mimeType=\"text/rtf\" /><data ns0:mimeType=\"text/html\" /></intent-filter>"
+            ],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        },
+        {
+            "activity_name": "pub.devrel.easypermissions.AppSettingsDialogHolderActivity",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": false,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        }
+    ],
+    "not_found_activities": [],
+    "override_animation_calls": [
+        "Lr40; onTransitionEnd (Landroid/transition/Transition;)V",
+        "Lwk; b (Lll; Landroid/os/Bundle; Lrl; Ljm;)Lll;",
+        "Landroidx/navigation/NavController; g (I Landroid/os/Bundle;)V"
+    ],
+    "start_time": 1736477422.450065,
+    "end_time": 1736477430.2725172,
+    "exception": false
+}

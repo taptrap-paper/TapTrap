@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.zoho.remoteplugin.cubot.apk",
+    "package_name": "com.zoho.remoteplugin.cubot",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736534220.9456558,
+    "end_time": 1736534235.149618,
+    "exception": false
+}

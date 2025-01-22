@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.docusign.ink_merged.apk",
+    "package_name": "com.docusign.ink",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736586429.417112,
+    "end_time": 1736586524.6325178,
+    "exception": true
+}

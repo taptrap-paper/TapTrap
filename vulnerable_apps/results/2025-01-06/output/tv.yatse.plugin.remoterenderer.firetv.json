@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/tv.yatse.plugin.remoterenderer.firetv.apk",
+    "package_name": "tv.yatse.plugin.remoterenderer.firetv",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736261498.5221148,
+    "end_time": 1736261507.752434,
+    "exception": false
+}

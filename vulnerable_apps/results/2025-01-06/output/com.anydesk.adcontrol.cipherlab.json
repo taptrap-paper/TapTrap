@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.anydesk.adcontrol.cipherlab.apk",
+    "package_name": "com.anydesk.adcontrol.cipherlab",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736484908.6614058,
+    "end_time": 1736484912.82649,
+    "exception": false
+}

@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.teamviewer.quicksupport.addon.lenovob.apk",
+    "package_name": "com.teamviewer.quicksupport.addon.lenovob",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736172332.5293407,
+    "end_time": 1736172339.2329252,
+    "exception": false
+}

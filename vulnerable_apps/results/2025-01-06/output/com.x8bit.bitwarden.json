@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.x8bit.bitwarden_merged.apk",
+    "package_name": "com.x8bit.bitwarden",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736396387.2944503,
+    "end_time": 1736396437.2843385,
+    "exception": true
+}

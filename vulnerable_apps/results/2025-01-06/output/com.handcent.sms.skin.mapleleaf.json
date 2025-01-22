@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.handcent.sms.skin.mapleleaf.apk",
+    "package_name": "com.handcent.sms.skin.mapleleaf",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736614269.309377,
+    "end_time": 1736614269.6004868,
+    "exception": false
+}

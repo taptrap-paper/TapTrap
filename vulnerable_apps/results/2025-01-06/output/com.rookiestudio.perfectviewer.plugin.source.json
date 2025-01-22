@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.rookiestudio.perfectviewer.plugin.source.apk",
+    "package_name": "com.rookiestudio.perfectviewer.plugin.source",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736374911.6761823,
+    "end_time": 1736374935.4443066,
+    "exception": false
+}

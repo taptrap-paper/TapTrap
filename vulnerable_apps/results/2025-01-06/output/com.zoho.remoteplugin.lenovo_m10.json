@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.zoho.remoteplugin.lenovo_m10.apk",
+    "package_name": "com.zoho.remoteplugin.lenovo_m10",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736319267.5106916,
+    "end_time": 1736319285.8619707,
+    "exception": false
+}

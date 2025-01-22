@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.anydesk.adcontrol.wishtel11.apk",
+    "package_name": "com.anydesk.adcontrol.wishtel11",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736422902.2391343,
+    "end_time": 1736422904.9150891,
+    "exception": false
+}

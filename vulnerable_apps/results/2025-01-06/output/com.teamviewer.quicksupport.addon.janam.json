@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.teamviewer.quicksupport.addon.janam.apk",
+    "package_name": "com.teamviewer.quicksupport.addon.janam",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736418649.9892485,
+    "end_time": 1736418656.314812,
+    "exception": false
+}

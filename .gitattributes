@@ -1,0 +1,2 @@
+app_preparation/crawl/16-12-2024.db.zip filter=lfs diff=lfs merge=lfs -text
+malicious_apps/results/2025-01-09/db.sqlite.zip filter=lfs diff=lfs merge=lfs -text

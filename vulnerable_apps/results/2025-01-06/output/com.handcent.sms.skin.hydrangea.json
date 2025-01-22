@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.handcent.sms.skin.hydrangea.apk",
+    "package_name": "com.handcent.sms.skin.hydrangea",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736601716.9623866,
+    "end_time": 1736601717.1182594,
+    "exception": false
+}

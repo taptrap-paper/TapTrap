@@ -1,0 +1,36 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.neutroncode.rceval.apk",
+    "package_name": "com.neutroncode.rceval",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [
+        {
+            "activity_name": "com.neutroncode.mp.NeutronMPCore",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "singleTask",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [
+                "<intent-filter xmlns:ns0=\"http://schemas.android.com/apk/res/android\"><action ns0:name=\"android.intent.action.VIEW\" /><category ns0:name=\"android.intent.category.DEFAULT\" /><category ns0:name=\"android.intent.category.BROWSABLE\" /><data ns0:scheme=\"file\" /><data ns0:mimeType=\"audio/*\" /><data ns0:mimeType=\"application/ogg\" /><data ns0:mimeType=\"application/x-ogg\" /><data ns0:mimeType=\"application/flac\" /><data ns0:mimeType=\"application/x-flac\" /><data ns0:pathPattern=\".*\\.spx\" /><data ns0:pathPattern=\".*\\.ogg\" /><data ns0:pathPattern=\".*\\.mp3\" /><data ns0:pathPattern=\".*\\.wav\" /><data ns0:pathPattern=\".*\\.flac\" /></intent-filter>",
+                "<intent-filter xmlns:ns0=\"http://schemas.android.com/apk/res/android\"><action ns0:name=\"android.intent.action.VIEW\" /><category ns0:name=\"android.intent.category.DEFAULT\" /><category ns0:name=\"android.intent.category.BROWSABLE\" /><data ns0:scheme=\"content\" /><data ns0:mimeType=\"audio/*\" /><data ns0:mimeType=\"application/ogg\" /><data ns0:mimeType=\"application/x-ogg\" /><data ns0:mimeType=\"application/flac\" /><data ns0:mimeType=\"application/x-flac\" /><data ns0:pathPattern=\".*\\.spx\" /><data ns0:pathPattern=\".*\\.ogg\" /><data ns0:pathPattern=\".*\\.mp3\" /><data ns0:pathPattern=\".*\\.wav\" /><data ns0:pathPattern=\".*\\.flac\" /></intent-filter>",
+                "<intent-filter xmlns:ns0=\"http://schemas.android.com/apk/res/android\"><action ns0:name=\"android.intent.action.MAIN\" /><action ns0:name=\"android.intent.action.MUSIC_PLAYER\" /><category ns0:name=\"android.intent.category.DEFAULT\" /><category ns0:name=\"android.intent.category.LAUNCHER\" /><category ns0:name=\"android.intent.category.APP_MUSIC\" /></intent-filter>",
+                "<intent-filter xmlns:ns0=\"http://schemas.android.com/apk/res/android\"><action ns0:name=\"android.media.action.MEDIA_PLAY_FROM_SEARCH\" /><category ns0:name=\"android.intent.category.DEFAULT\" /></intent-filter>",
+                "<intent-filter xmlns:ns0=\"http://schemas.android.com/apk/res/android\"><action ns0:name=\"android.hardware.usb.action.USB_DEVICE_ATTACHED\" /></intent-filter>"
+            ],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        }
+    ],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736546898.4714055,
+    "end_time": 1736546900.540115,
+    "exception": false
+}

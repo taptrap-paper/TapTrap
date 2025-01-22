@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/mindmine.music.skin.auto.red.apk",
+    "package_name": "mindmine.music.skin.auto.red",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736197436.8478067,
+    "end_time": 1736197437.4679976,
+    "exception": false
+}

@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.tbig.playerpro.skins.cloudypink_merged.apk",
+    "package_name": "com.tbig.playerpro.skins.cloudypink",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736414971.0591626,
+    "end_time": 1736415005.3962705,
+    "exception": false
+}

@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.splashtop.streamer.platform.datalogic.apk",
+    "package_name": "com.splashtop.streamer.platform.datalogic",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736320893.671908,
+    "end_time": 1736320896.850695,
+    "exception": false
+}

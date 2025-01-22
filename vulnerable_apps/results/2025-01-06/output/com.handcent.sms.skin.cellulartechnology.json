@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.handcent.sms.skin.cellulartechnology_merged.apk",
+    "package_name": "com.handcent.sms.skin.cellulartechnology",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736558243.3816957,
+    "end_time": 1736558243.7421207,
+    "exception": false
+}

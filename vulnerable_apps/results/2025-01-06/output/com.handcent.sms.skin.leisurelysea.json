@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.handcent.sms.skin.leisurelysea.apk",
+    "package_name": "com.handcent.sms.skin.leisurelysea",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736191068.0400085,
+    "end_time": 1736191068.4967759,
+    "exception": false
+}

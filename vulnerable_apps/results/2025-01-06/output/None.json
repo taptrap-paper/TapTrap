@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/marketing.video.maker.rey_merged.apk",
+    "package_name": null,
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736623963.1564956,
+    "end_time": 1736623982.0464504,
+    "exception": true
+}

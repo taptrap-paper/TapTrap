@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.splashtop.streamer.platform.handheld.a.apk",
+    "package_name": "com.splashtop.streamer.platform.handheld.a",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736559819.0005405,
+    "end_time": 1736559821.061947,
+    "exception": false
+}

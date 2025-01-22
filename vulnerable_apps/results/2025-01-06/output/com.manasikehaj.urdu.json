@@ -1,0 +1,116 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.manasikehaj.urdu.apk",
+    "package_name": "com.manasikehaj.urdu",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [
+        {
+            "activity_name": "com.manasikehaj.urdu.SplashActivity",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [
+                "<intent-filter xmlns:ns0=\"http://schemas.android.com/apk/res/android\"><action ns0:name=\"android.intent.action.MAIN\" /><category ns0:name=\"android.intent.category.LAUNCHER\" /></intent-filter>"
+            ],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        },
+        {
+            "activity_name": "com.manasikehaj.urdu.MainActivity",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        },
+        {
+            "activity_name": "com.manasikehaj.urdu.activity.SubMenuScreenActivity",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        },
+        {
+            "activity_name": "com.manasikehaj.urdu.activity.SearchScreenActivity",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        },
+        {
+            "activity_name": "com.manasikehaj.urdu.activity.HtmlFragMentAcivity",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        },
+        {
+            "activity_name": "com.manasikehaj.urdu.activity.HtmlPageActivity",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [
+                "<intent-filter xmlns:ns0=\"http://schemas.android.com/apk/res/android\"><action ns0:name=\"android.intent.action.PHONE_STATE\" /><action ns0:name=\"android.intent.action.SEND\" /></intent-filter>"
+            ],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        }
+    ],
+    "not_found_activities": [],
+    "override_animation_calls": [
+        "Lcom/manasikehaj/urdu/BaseActivity; gotoActivityInGroup (Landroid/content/Context; Ljava/lang/Class;)V"
+    ],
+    "start_time": 1736353449.5377798,
+    "end_time": 1736353458.7675908,
+    "exception": false
+}

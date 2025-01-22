@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.handcent.sms.skin.cutenotebook_merged.apk",
+    "package_name": "com.handcent.sms.skin.cutenotebook",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736350527.8418112,
+    "end_time": 1736350527.9625418,
+    "exception": false
+}

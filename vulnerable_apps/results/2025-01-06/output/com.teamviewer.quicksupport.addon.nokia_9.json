@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.teamviewer.quicksupport.addon.nokia_9.apk",
+    "package_name": "com.teamviewer.quicksupport.addon.nokia_9",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736185116.6032798,
+    "end_time": 1736185122.1826353,
+    "exception": false
+}

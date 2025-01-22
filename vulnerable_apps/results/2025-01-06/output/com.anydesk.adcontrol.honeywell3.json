@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.anydesk.adcontrol.honeywell3.apk",
+    "package_name": "com.anydesk.adcontrol.honeywell3",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736160522.5957108,
+    "end_time": 1736160525.1885223,
+    "exception": false
+}

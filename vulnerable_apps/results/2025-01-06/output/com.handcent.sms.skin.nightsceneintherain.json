@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.handcent.sms.skin.nightsceneintherain.apk",
+    "package_name": "com.handcent.sms.skin.nightsceneintherain",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736308849.1303647,
+    "end_time": 1736308849.4657006,
+    "exception": false
+}

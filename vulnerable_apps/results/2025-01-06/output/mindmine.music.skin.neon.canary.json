@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/mindmine.music.skin.neon.canary.apk",
+    "package_name": "mindmine.music.skin.neon.canary",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736260342.8231094,
+    "end_time": 1736260343.3414075,
+    "exception": false
+}

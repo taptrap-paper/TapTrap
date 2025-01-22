@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.teamviewer.quicksupport.addon.cyrus_cs22.apk",
+    "package_name": "com.teamviewer.quicksupport.addon.cyrus_cs22",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736598859.0001624,
+    "end_time": 1736598862.0470817,
+    "exception": false
+}

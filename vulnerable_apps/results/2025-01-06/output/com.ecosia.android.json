@@ -1,0 +1,96 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.ecosia.android_merged.apk",
+    "package_name": "com.ecosia.android",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [
+        {
+            "activity_name": "org.chromium.android_webview.devui.MainActivity",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "singleTask",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [
+                "<intent-filter xmlns:ns0=\"http://schemas.android.com/apk/res/android\"><action ns0:name=\"com.android.webview.SHOW_DEV_UI\" /><category ns0:name=\"android.intent.category.DEFAULT\" /></intent-filter>"
+            ],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        },
+        {
+            "activity_name": "org.chromium.android_webview.nonembedded.LicenseActivity",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": true,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [
+                "<intent-filter xmlns:ns0=\"http://schemas.android.com/apk/res/android\"><action ns0:name=\"android.settings.WEBVIEW_LICENSE\" /><category ns0:name=\"android.intent.category.DEFAULT\" /></intent-filter>"
+            ],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        },
+        {
+            "activity_name": "com.google.android.play.core.common.PlayCoreDialogWrapperActivity",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": false,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        },
+        {
+            "activity_name": "com.google.android.gms.common.api.GoogleApiActivity",
+            "is_alias": false,
+            "alias_for": null,
+            "document_launch_mode": "none",
+            "launch_mode": "standard",
+            "is_enabled": true,
+            "is_exported": false,
+            "permission": null,
+            "declared_intent_filters": true,
+            "intent_filters": [],
+            "is_ignored": false,
+            "overrides_on_enter_animation_complete": false,
+            "on_enter_animation_override": null,
+            "animation_override_methods": []
+        }
+    ],
+    "not_found_activities": [],
+    "override_animation_calls": [
+        "LUd; onCreate (Landroid/os/Bundle;)V",
+        "LUn; Q1 ()V",
+        "Lorg/chromium/chrome/browser/webapps/WebappLauncherActivity; onCreate (Landroid/os/Bundle;)V",
+        "LUn; finish ()V",
+        "LzC0; d ()Z",
+        "LUn; finish ()V",
+        "LuG1; a (I)V",
+        "LUd; onCreate (Landroid/os/Bundle;)V",
+        "LUn; Q1 ()V",
+        "LIf0; a2 ()Z",
+        "LtG1; b ()V",
+        "Lorg/chromium/chrome/browser/searchwidget/SearchActivity; z ()Z",
+        "LRx1; onClick (Landroid/view/View;)V"
+    ],
+    "start_time": 1736461133.6715353,
+    "end_time": 1736461209.054111,
+    "exception": false
+}

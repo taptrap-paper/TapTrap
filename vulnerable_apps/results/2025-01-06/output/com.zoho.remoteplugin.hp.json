@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.zoho.remoteplugin.hp.apk",
+    "package_name": "com.zoho.remoteplugin.hp",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736589105.2951317,
+    "end_time": 1736589115.1975348,
+    "exception": false
+}

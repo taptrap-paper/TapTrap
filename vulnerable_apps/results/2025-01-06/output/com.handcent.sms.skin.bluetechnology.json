@@ -1,0 +1,13 @@
+{
+    "apk_path": "/root/apks/android/tapjacking/free_18_12_24_merged/com.handcent.sms.skin.bluetechnology.apk",
+    "package_name": "com.handcent.sms.skin.bluetechnology",
+    "is_enabled": true,
+    "permission": null,
+    "protected_confirmation": false,
+    "activities": [],
+    "not_found_activities": [],
+    "override_animation_calls": [],
+    "start_time": 1736402388.110656,
+    "end_time": 1736402388.2527826,
+    "exception": false
+}
